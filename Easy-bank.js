@@ -10,7 +10,7 @@ hamburger.addEventListener("click",()=>{
      if(!navOn){
          trans()
         hamburger.style.transform="rotate(90deg)"
-        hamburger.src="images/icon-close.svg";
+        hamburger.src="icon-close.svg";
         hamburger.style.height="20px";
         box.style.visibility="visible";
         navOn=true;
@@ -23,7 +23,7 @@ hamburger.addEventListener("click",()=>{
     else if(navOn){
         trans()
         hamburger.style.transform="rotate(0deg)"
-        hamburger.src="images/icon-hamburger.svg";
+        hamburger.src="icon-hamburger.svg";
         hamburger.style.height="20px";
         // box.style.display="none";
         bigBox.style.transform="scale(0)"
