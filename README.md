@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Mobile-Easybank.png)
+![](mobile-screenshot.png)
 
 
 ## My process
