@@ -47,7 +47,7 @@ body{
 .intro-icon{
     width: 100%;
     margin-top: -36%;
-    background: url('images/bg-intro-mobile.svg')no-repeat;
+    background: url('bg-intro-mobile.svg')no-repeat;
     background-size: 100% 115%;
     background-position: top center;
 
@@ -295,7 +295,6 @@ opacity: 0;
     list-style: none;
     padding: 10px 20px ;
     opacity: 1;
-    /* transition: all 1.2s ease-in-out ; */
 }
 .s-text{
     font-size: 10px;
@@ -321,11 +320,6 @@ opacity: 0;
             overflow-x: hidden;
             height: 100%;
             width: 100%;
-    }
-    main{
-        /* height: 100%;
-        width: 100%;
-        background-color: purple; */
     }
     .easybank-head{
         padding:0 0%;
@@ -368,7 +362,6 @@ opacity: 0;
     .intro{
         display: flex;
         justify-content: space-between;
-    /* background-color: hsl(220, 16%, 96%); */
         height: 420px;
         width: 100%;     
     }
@@ -390,7 +383,7 @@ opacity: 0;
         padding: 0;
     }
     .intro-icon{
-       background: url('images/bg-intro-desktop.svg');
+       background: url('bg-intro-desktop.svg');
     background-repeat: no-repeat; 
     height: 140%;
     background-size: 120% 90%;
@@ -399,7 +392,6 @@ opacity: 0;
     padding-left: 20%;
     position: relative;
     left: 10%;
-    /* z-index: 99; */
     background-position:top 2px left 30% ; 
     }
     .intro-text{
@@ -410,7 +402,6 @@ opacity: 0;
     }
     .text{
         text-align: left;
-        /* margin: 0; */
         padding-left: 0;
     }
     .first-request{
@@ -484,7 +475,6 @@ aside{
 .side{
     width: 23%;
     padding: 0;
-    /* background-color: red; */
     margin: 3% 1%;
     float:left
 }
@@ -493,28 +483,24 @@ aside{
     flex-direction: column;
     height: 200px;
     flex-wrap: wrap;
-    /* align-items: center; */
     padding: 1% 20px ;
     justify-content: space-evenly;
 
 }
 .foot-logo{
     margin: 0 10px ;
-    /* background-color: green; */
     width: 20%;
     padding-top:0 ;
 }
 .contact-icons{
     padding: 0;
     margin: 0;
-    /* cursor: pointer; */
 }
 
 .links{
     width: 20%;
     align-self: flex-start;
     padding: 10px 0;
-    /* background-color: red; */
     margin:430px 20px 0px;
     margin: 0;
 }
@@ -532,9 +518,6 @@ aside{
 }
 .res{
     margin: 5px auto 10px ;
-}
-.copy-right{
-    /* margin: 10px 0px ; */
 }
 .developer{
     font-size: 13px;
