@@ -55,4 +55,4 @@ I have improved my knowledge on background positioning as well as HTML semantics
 
 ## Acknowledgments
 
-I love to thank the Front end mentor community on slack for support i recieved.
+I'll love to thank the Front end mentor community on slack for support i recieved.
