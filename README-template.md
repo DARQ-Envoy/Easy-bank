@@ -48,11 +48,10 @@ I have improved my knowledge on background positioning as well as HTML semantics
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- My portfolio Website - [Timothy](https://www.DARQ-Envoy.github.io)
+- Frontend Mentor - [DARQ-Envoy](https://www.frontendmentor.io/profile/DARQ-Envoy)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
